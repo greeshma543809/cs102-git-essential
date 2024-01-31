@@ -1,1 +1,6 @@
 hlo this is cs102
+git push origin main
+git add .
+git status
+git commit -m " "
+git log
